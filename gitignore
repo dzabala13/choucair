@@ -1,21 +1,13 @@
-.#JAVA
-# Compiled class file
+# Ignore project-specific cache directory
+.classpath
+.settings
+.idea
+*.iml
+*.project
 *.class
 
-# Log file
-*.log
-
-# Package Files #
-*.war
-*.zip
-*.rar
-
-#INTELLIJ IDEA
-# User-specific stuff:
-.idea/
-*.iml
-out/
-
-#Serenity
-target/
+# Ignore build output directory
 build/
+bin/
+target/
+.gradle/
