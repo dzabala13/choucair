@@ -10,9 +10,7 @@ prueba tecnica para una empresa.
 - Gradle v5.2.1 o superior 
 - Cucumber
 - Git
--Se usa la siguiente instruccion en el cmd parado en la carpeta para 
- ejecutar el runner y generar el index.
-    gradlew clean test  aggregate -i
+
     
  ## Modo de ejecución en local ##
 
